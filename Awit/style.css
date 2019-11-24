@@ -1,0 +1,89 @@
+body {
+	
+	background-image: url("Images/Cover.gif");
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	color: Orchid;
+	font-family: CustomFont;
+	letter-spacing: 4px;
+	word-spacing: 12px;
+	font-family: "OCR A Std", monospace;
+	
+}
+header {
+	text-align: center;
+	font-size: 70px;
+	color: Cyan;
+  font-family: "OCR A Std", monospace;
+}
+h1{
+	color: cyan;
+	font-size:45px;
+    	text-align:center;
+    	font-family: "OCR A Std", monospace;
+}
+p1{
+	font-size:25px;
+	text-align:center;
+	font-family: "OCR A Std", monospace;
+}
+ul {
+  	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+  	overflow: hidden;
+  	background-color: black;
+    font-family: "OCR A Std", monospace;
+}
+li {
+  	float: middle;
+  	font-family: "OCR A Std", monospace;
+}
+
+li a {
+  	display:block;
+  	color: Orchid;
+  	text-align: center;
+  	padding: 14px 16px;
+  	text-decoration: none;
+	font-size:22px;
+	letter-spacing: 1px;
+	word-spacing: 1px;
+	font-family: "OCR A Std", monospace;
+}
+li a:hover {
+  	background-color: #111;
+  	color: cyan;
+  	font-family: "OCR A Std", monospace;
+}
+@font-face {
+  	font-family: CustomFont;
+  	src: url(Font/Lazer84.ttf);
+  	font-family: "OCR A Std", monospace;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 	div {
+  font-family: CustomFont;
+}
+
+	
+			-->
